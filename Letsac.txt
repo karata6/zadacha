@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The bastion was quiet at night
+=======
+The keep was quiet at night
+>>>>>>> main
